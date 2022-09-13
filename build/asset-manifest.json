@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccc76408.css",
+    "main.js": "/static/js/main.144e400f.js",
+    "static/media/tmv.png": "/static/media/tmv.7de4992147f6cbdc68d2.png",
+    "static/media/netflix.png": "/static/media/netflix.9b36ba26d47cbe8af8af.png",
+    "static/media/zomato.png": "/static/media/zomato.39393fdd7a97b8bb4c6c.png",
+    "static/media/express.png": "/static/media/express.915b89629a5fefdb6ca0.png",
+    "static/media/fsd.jpg": "/static/media/fsd.b2911e536b0c24efb622.jpg",
+    "static/media/weather.png": "/static/media/weather.25d87e82e6631cd2469e.png",
+    "static/media/node.png": "/static/media/node.abfaef34ea49d0c7cd3c.png",
+    "static/media/project3.jpg": "/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/mongo.png": "/static/media/mongo.ead065561671561e2769.png",
+    "static/media/github.png": "/static/media/github.e06a357a770a001ad049.png",
+    "static/media/linkedin.png": "/static/media/linkedin.6892b3ae328c7a1e055f.png",
+    "index.html": "/index.html",
+    "main.ccc76408.css.map": "/static/css/main.ccc76408.css.map",
+    "main.144e400f.js.map": "/static/js/main.144e400f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc76408.css",
+    "static/js/main.144e400f.js"
+  ]
+}
